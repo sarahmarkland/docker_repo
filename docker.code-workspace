@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "SSH FS - ubuntu18.04_node12",
+			"uri": "ssh://ubuntu18.04_node12/"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"main.h": "c"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "sarahmarkland"
+	}
+}
